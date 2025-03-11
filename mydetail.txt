@@ -1,0 +1,4 @@
+details 
+ name :asfiya shaikh
+ roll no : 23bcac13
+ dept: computer science
